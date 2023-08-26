@@ -4,6 +4,10 @@ Welcome to MarkettingApp, a web application built using Spring Boot, Spring Data
 The application follows the Spring MVC architecture, comprising controller, service, DTO, entity, and repository layers 
 to provide a structured interaction with the view. The front end is developed using JSP and HTML.
 
+## Flow of Project
+![flow_diagram](https://github.com/Kamal725528/markettingApp/assets/88225844/d5a6c040-385d-435c-b47f-d3f00be241a9)
+
+
 ## Features
 
 - **Spring Boot:** Utilizes Spring Boot to streamline application setup and development.
